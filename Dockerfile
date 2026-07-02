@@ -18,4 +18,3 @@ EXPOSE 3000
 
 # Define the command to execute your application
 CMD ["npm", "start"]
-
